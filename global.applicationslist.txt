@@ -1,0 +1,6 @@
+windowtest.app
+terminal.app
+dictionary.app
+calculator.app
+broswer.app
+helpcenter.app
